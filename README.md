@@ -201,5 +201,5 @@ This project is intended for **educational purposes only**. Please do not use in
 ---
 
 <div align="center">
-<em>This project fully complies with course assignment requirements, implementing all S-AES algorithm functionalities with comprehensive testing validation and user documentation.</em>
+<em>This project implements all S-AES algorithm functionalities with comprehensive testing validation and user documentation.</em>
 </div>
